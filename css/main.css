@@ -1,0 +1,9 @@
+.note{
+display: flex;
+
+}
+
+.isDone div{
+text-decoration: line-through;
+color: rgba(0, 0, 0, 0.2);
+}
